@@ -47,7 +47,7 @@
 @end
 
 static CGSize AssetGridThumbnailSize;
-static CGFloat itemMargin = 5;
+static CGFloat itemMargin = 2;
 
 @implementation TZPhotoPickerController
 
